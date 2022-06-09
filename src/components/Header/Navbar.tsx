@@ -19,7 +19,7 @@ export function Navbar() {
         />
         <NavItem
           name='Linkedin'
-          link='https://www.linkedin.com/in/victor-nascimento-a753a6173/'
+          link='https://www.linkedin.com/in/victor-lima-a753a6173/'
           icon={AiFillLinkedin}
         />
         <NavItem name='Contact' link='#contact' icon={AiFillMail} />
